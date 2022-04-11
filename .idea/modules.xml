@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/deyine_openclassroom-master.iml" filepath="$PROJECT_DIR$/.idea/deyine_openclassroom-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/deyine_openclassroom-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/deyine_openclassroom-master.app.iml" />
+    </modules>
+  </component>
+</project>
